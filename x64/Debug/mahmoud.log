@@ -1,0 +1,2 @@
+﻿  mahmoud.cpp
+C:\Users\DELL\source\repos\mahmoud\mahmoud\mahmoud.cpp(13,1): error C4700: uninitialized local variable 'i' used
